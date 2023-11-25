@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2C277B9C-28B7-41E0-BD99-86113A22B4F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="43" />
+      <File FileName="Food.cs" Line="5" Column="36" />
+      <File FileName="Score.cs" Line="2" Column="20" />
+      <File FileName="Timer.cs" Line="5" Column="27" />
+      <File FileName="TimeIncrementFood.cs" Line="3" Column="20" />
+      <File FileName="GameManager.cs" Line="5" Column="2" />
+      <File FileName="TimeDecrementFood.cs" Line="9" Column="10" />
+      <File FileName="GameEntityFood.cs" Line="8" Column="34" />
+      <File FileName="Snake.cs" Line="6" Column="3" />
+      <File FileName="EmptyInterface.cs" Line="2" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SnakeGame" expanded="True">
+            <Node name="SnakeGame" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SnakeGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
